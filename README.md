@@ -21,7 +21,7 @@
 
 </td>
 <td align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/main/svg/dev.svg" width="300" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" />
 </td>
 </tr>
 </table>
