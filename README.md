@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Hi%20there%20👋%20I'm%20HAIFENG%20HE&fontSize=35&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer&descSize=20&descAlignY=70" />
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=60&lines=Hi+there+%F0%9F%91%8B+I'm+HAIFENG+HE;Full-Stack+Developer;Vue+3+%7C+React+%7C+Node.js+%7C+Python;Always+learning%2C+always+building" alt="Typing Animation" />
 
 </div>
 
@@ -41,13 +42,10 @@
 
 <div align="center">
 
+<!-- GitHub Stats (vercel.app, GitHub proxies it) -->
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=iGewen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=6C63FF&title_color=6C63FF&text_color=C9D1D9" />
 &nbsp;&nbsp;
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iGewen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=6C63FF&title_color=6C63FF&text_color=C9D1D9&langs_count=8" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iGewen&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=C9D1D9" />
 
 </div>
 
@@ -65,13 +63,19 @@
 
 ### 🔥 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/iGewen/expiry-management-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iGewen&repo=expiry-management-system&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=6C63FF&title_color=6C63FF&text_color=C9D1D9" />
-</a>
-
-</div>
+<table align="center">
+<tr>
+<td align="center" width="400">
+  <a href="https://github.com/iGewen/expiry-management-system">
+    <b>📦 expiry-management-system</b>
+  </a>
+  <br/>
+  商品保质期管理系统
+  <br/>
+  <img src="https://img.shields.io/badge/Vue-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -80,12 +84,8 @@
 [![Website](https://img.shields.io/badge/Website-gewen.me-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](http://gewen.me)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/HAIFENGHE395481)
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=iGewen&label=Profile%20Views&color=6C63FF&style=flat" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" />
+**Thanks for visiting! ⭐**
 
 </div>
