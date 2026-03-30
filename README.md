@@ -7,6 +7,10 @@
 
 ---
 
+<table>
+<tr>
+<td>
+
 ### 🧑‍💻 About Me
 
 - 🔭 Do good deeds; let the future unfold.
@@ -14,6 +18,13 @@
 - 💬 Bio: 纯纯手残党，但一直在折腾
 - 🌐 Website: [gewen.me](http://gewen.me)
 - 📫 Twitter: [@HAIFENGHE395481](https://x.com/HAIFENGHE395481)
+
+</td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/main/svg/dev.svg" width="300" />
+</td>
+</tr>
+</table>
 
 ---
 
