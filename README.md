@@ -47,20 +47,7 @@
 
 </div>
 
----
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<!-- GitHub Stats (vercel.app, GitHub proxies it) -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iGewen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=6C63FF&title_color=6C63FF&text_color=C9D1D9" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iGewen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=6C63FF&title_color=6C63FF&text_color=C9D1D9&langs_count=8" />
-
-</div>
-
----
 
 ### 🐍 Contribution Snake
 
